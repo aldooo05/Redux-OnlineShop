@@ -20,7 +20,7 @@ setupListeners(store.dispatch);
 
 export default store;
 
-// Kode di atas digunakan untuk mengonfigurasi dan membuat store Redux menggunakan Redux Toolkit. Berikut adalah penjelasan singkatnya:
+// Kode di atas digunakan untuk mengonfigurasi dan membuat store Redux menggunakan Redux Toolkit.
 
 // 1. `configureStore` adalah fungsi dari Redux Toolkit yang digunakan untuk membuat store Redux. Dalam kasus ini, reducer untuk store diatur melalui objek konfigurasi. Tiga reducer yang digunakan adalah `CategorySlice`, `ProductSlice`, dan `CartSlice`.
 
